@@ -1,0 +1,15 @@
+antecedents,consequents,support,confidence,lift
+All Natural Chicken Sausage Roasted Pepper & Asiago,Condensed Chicken Noodle Soup,0.12274368231046931,1.0,8.147058823529411
+Condensed Chicken Noodle Soup,All Natural Chicken Sausage Roasted Pepper & Asiago,0.12274368231046931,1.0,8.147058823529411
+Rice Crunch-Ems Cereal,Cook & Serve Vanilla Pudding Pie Filling,0.13237063778580024,1.0,3.7601809954751135
+Cook & Serve Vanilla Pudding Pie Filling,Rice Crunch-Ems Cereal,0.13237063778580024,0.49773755656108604,3.7601809954751135
+Cereal Box,Apples (1kg),0.15403128760529483,1.0,3.4769874476987446
+Apples (1kg),Cereal Box,0.15403128760529483,0.5355648535564853,3.476987447698744
+Hot Long Chili Peppers,Creamy Vodka Italian Sauce,0.14681107099879662,1.0,3.324
+Creamy Vodka Italian Sauce,Hot Long Chili Peppers,0.14681107099879662,0.48799999999999993,3.324
+Pasta (500g),Ground Beef (500g),0.15643802647412755,1.0,3.220930232558139
+Ground Beef (500g),Pasta (500g),0.15643802647412755,0.503875968992248,3.220930232558139
+Cook & Serve Vanilla Pudding Pie Filling,Apples (1kg),0.13357400722021662,0.5022624434389141,1.746360211287605
+Apples (1kg),Cook & Serve Vanilla Pudding Pie Filling,0.13357400722021662,0.46443514644351463,1.7463602112876049
+Creamy Vodka Italian Sauce,Ground Beef (500g),0.15403128760529483,0.512,1.6491162790697673
+Ground Beef (500g),Creamy Vodka Italian Sauce,0.15403128760529483,0.49612403100775193,1.6491162790697673
